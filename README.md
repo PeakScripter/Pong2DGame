@@ -56,4 +56,6 @@ For Windows:
 ```bash
 gradlew.bat build
 ```
+## Output
+![image](https://github.com/user-attachments/assets/44553456-e01d-486d-afad-f03652955ff9)
 
